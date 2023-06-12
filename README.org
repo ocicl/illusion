@@ -1,0 +1,10 @@
+* illusion
+
+Library to customize and manage Lisp parens reader
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ailisp/illusion.git   |
+| commit  | af5d2b7  |
+| systems | illusion |
+|---------+-------------------------------------------|
+
